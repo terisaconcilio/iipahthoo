@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaequoori.larryjblakejr.com/sitemap.xml
